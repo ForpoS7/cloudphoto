@@ -1,0 +1,5 @@
+folder_id   = "b1gm2l288u7tam35jn0o"
+bucket_name = "photos.vvot20.itiscl.ru"
+domain      = "vvot20.itiscl.ru"
+cert_id     = "fpqasuau5n9s5394tar0"
+dns_zone_id = "dns3a574i2o82g8upql7"
